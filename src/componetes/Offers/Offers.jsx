@@ -1,5 +1,6 @@
 import React from 'react'
 import './Offers.css'
+import banner1 from '../assist/banner-1.png'
 
 const Offers = () => {
   return (
@@ -11,7 +12,7 @@ const Offers = () => {
             <button>Check Now</button>
         </div>
         <div className='offers-right'>
-            
+            <img src={banner1} alt="Offer Image" />
         </div>      
     </div>
   )
