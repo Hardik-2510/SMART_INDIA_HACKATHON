@@ -66,7 +66,7 @@ img
     background: white;  
 }
 .nav-login-cart button:hover{
-    background: linear-gradient(180deg , rgb(0, 255, 0) , rgb(121, 253, 121));
+    background: linear-gradient(180deg , rgb(0, 255, 0) , rgb(121, 253, 121)60%);
     cursor: pointer;
 }
 .nav-cart-count{
